@@ -1,6 +1,7 @@
 +++
 title = 'Satu Baju, Dua Gaya: Review PDH 2-in-1 yang Wajib Anak Kampus Punya'
 date = 2026-03-03T19:00:00+07:00
+description = "Review jujur wearpack atau PDH 2-in-1 buat mantan anak SMK yang kini sibuk ngampus. Bedah tuntas fitur lengan lepas-pasangnya, beneran praktis atau cuma gimik?"
 tags = ["Usability", "Product Design", "Review"]
 +++
 
@@ -20,29 +21,23 @@ Untuk itu yuk kita coba kupas tuntas PDH convertible ini dari 3 aspek, yaitu _Us
 
 Sebagai mahasiswa yang kritis, mari kita bedah PDH convertible ini dari kacamata Usability Goals. Singkatnya, kita mau nilai apakah inovasi resleting di lengan baju ini beneran mempermudah hidup atau malah bikin ribet? Berdasarkan enam metrik utama, begini hasil review-ku:
 
-1. **Keefektifan (Effectiveness): Beneran Solutif Nggak?**
+1. **Keefektifan (Effectiveness): Beneran Solutif Nggak?**<br/>
+   Jawabannya: Banget! Desain baju ini sangat efektif menuntaskan dilema ku sebagai mahasiswa. Saat lengannya dilepas, dia ngebuat badan ga ngerasain gerah pas harus lari-larian naik tangga SKPB. Sebaliknya, saat dipasang, dia efektif jadi pelindung buat nahan dinginnya AC lab di Tower 2. Fungsinya bekerja persis seperti yang diharapkan.
 
-Jawabannya: Banget! Desain baju ini sangat efektif menuntaskan dilema ku sebagai mahasiswa. Saat lengannya dilepas, dia ngebuat badan ga ngerasain gerah pas harus lari-larian naik tangga SKPB. Sebaliknya, saat dipasang, dia efektif jadi pelindung buat nahan dinginnya AC lab di Tower 2. Fungsinya bekerja persis seperti yang diharapkan.
+2. **Efisiensi (Efficiency): Seberapa Sat-Set Dipakainya?**<br/>
+   Kalau soal lepas lengan, desain ini sangat efisien. Cuma butuh waktu kurang dari 10 detik buat narik resleting melingkar di bahu, kemeja ini bisa jadi vest. Tapi ada catatannya: efisiensi ini agak menurun pas kita mau memasang lengannya kembali. Butuh waktu ekstra dan ketelitian buat menyatukan ujung resleting di area ketiak sebelum ditarik. Jadi kalau lagi buru-buru agak susah juga buat masang lengan PDH nya.
 
-2. **Efisiensi (Efficiency): Seberapa Sat-Set Dipakainya?**
+3. **Keamanan (Safety): Aman Nggak Buat Dipakai Buru-Buru?**<br/>
+   Secara umum, desain ini aman digunakan. Namun, karena ada resleting di area bahu/ketiak, ada sedikit risiko kecil. Kalau kita terburu-buru narik resletingnya, kain baju dalam kaos bisa gampang tersangkut atau kejepit di resletingnya.
 
-Kalau soal lepas lengan, desain ini sangat efisien. Cuma butuh waktu kurang dari 10 detik buat narik resleting melingkar di bahu, kemeja ini bisa jadi vest. Tapi ada catatannya: efisiensi ini agak menurun pas kita mau memasang lengannya kembali. Butuh waktu ekstra dan ketelitian buat menyatukan ujung resleting di area ketiak sebelum ditarik. Jadi kalau lagi buru-buru agak susah juga buat masang lengan PDH nya.
+4. **Utilitas (Utility): Fitur Lainnya Gimana?**<br/>
+   Desain PDH ini punya utilitas atau kegunaan yang sangat baik (having good utility). Fitur _convertible_-nya nggak mengorbankan fungsi utama baju lapangan. Saku-saku fungsional di dada tetap bisa dipakai maksimal buat naruh pulpen, ID card, atau flashdisk, baik saat mode kemeja maupun mode rompi.
 
-3. **Keamanan (Safety): Aman Nggak Buat Dipakai Buru-Buru?**
-
-Secara umum, desain ini aman digunakan. Namun, karena ada resleting di area bahu/ketiak, ada sedikit risiko kecil. Kalau kita terburu-buru narik resletingnya, kain baju dalam kaos bisa gampang tersangkut atau kejepit di resletingnya.
-
-4. **Utilitas (Utility): Fitur Lainnya Gimana?**
-
-Desain PDH ini punya utilitas atau kegunaan yang sangat baik (having good utility). Fitur _convertible_-nya nggak mengorbankan fungsi utama baju lapangan. Saku-saku fungsional di dada tetap bisa dipakai maksimal buat naruh pulpen, ID card, atau flashdisk, baik saat mode kemeja maupun mode rompi.
-
-5. **Kemudahan Dipelajari (Learnability): Perlu Tutorial Nggak?**
-
-Ya engga lah! Baju ini sangat mudah dipelajari cara pakainya (easy to learn / learnability). Mengingat mekanisme kayak gini udah sering kita jumpai, siapapun yang melihat ada garis resleting melingkar di sambungan bahu pasti langsung paham secara kalo lengannya bisa dilepas.
+5. **Kemudahan Dipelajari (Learnability): Perlu Tutorial Nggak?**<br/>
+   Ya engga lah! Baju ini sangat mudah dipelajari cara pakainya (easy to learn / learnability). Mengingat mekanisme kayak gini udah sering kita jumpai, siapapun yang melihat ada garis resleting melingkar di sambungan bahu pasti langsung paham secara kalo lengannya bisa dilepas.
 
 6. **Kemudahan Diingat (Memorability): Gampang Lupa Cara Pakainya Nggak?**
-
-Sangat mudah diingat (easy to remember how to use / memorability). Sejauh yang aku gunakan, desain ini sangat mudah diingat, posisi resliting hampir selalu ada di area dekat ketiak. Kalo udah sering make pasti bakal hafal dengan sendiri posisi kunci reslitingnya. Dengan catatan, bagian lengan kanan/kiri sering tertukar saat memasangnya kembali, di pdh yang aku miliki belum ada penanda yang membedakan lengan kanan dan kiri.
+   <br/>Sangat mudah diingat (easy to remember how to use / memorability). Sejauh yang aku gunakan, desain ini sangat mudah diingat, posisi resliting hampir selalu ada di area dekat ketiak. Kalo udah sering make pasti bakal hafal dengan sendiri posisi kunci reslitingnya. Dengan catatan, bagian lengan kanan/kiri sering tertukar saat memasangnya kembali, di pdh yang aku miliki belum ada penanda yang membedakan lengan kanan dan kiri.
 
 ## Pengalamanku Make, Gimana? (User Experience Goals)
 
@@ -65,28 +60,22 @@ Kalau Usability Goals tadi fokus pada fungsi mekanisnya, UX Goals ini lebih ke a
 Kalau tadi kita bahas perasaan, sekarang kita masuk ke ranah teknis evaluasi do's and don'ts dari sebuah interaksi desain. Mari kita lihat seberapa pintar desainer baju ini menerapkan 6 prinsip dasar desain pada resleting lengannya:
 
 1. **Visibilitas (Visibility): Kelihatan Jelas Nggak?**
-
-Seringkali, demi estetika mode lengan panjang, rel resleting disembunyikan di balik lipatan kain di area bahu. Sayangnya, visibilitas yang rendah ini bikin kita harus meraba-raba dulu buat nyari di mana ujung resletingnya bersembunyi saat mau ngelepas atau masang lengan. Secara look memang bagus, tapi secara fungsi agak menghambat kecepatan.
+   <br/>Seringkali, demi estetika mode lengan panjang, rel resleting disembunyikan di balik lipatan kain di area bahu. Sayangnya, visibilitas yang rendah ini bikin kita harus meraba-raba dulu buat nyari di mana ujung resletingnya bersembunyi saat mau ngelepas atau masang lengan. Secara look memang bagus, tapi secara fungsi agak menghambat kecepatan.
 
 2. **Affordance (Keterpahaman Bentuk): Ngasih Petunjuk Nggak?**
-
-Bentuk kepala resleting yang sedikit melengkung dan punya lubang secara natural memberikan affordance (petunjuk bawaan). Tanpa perlu diajari, jari kita otomatis tahu bahwa benda kecil itu harus dicubit (dijepit jari) dan ditarik.
+   <br/>Bentuk kepala resleting yang sedikit melengkung dan punya lubang secara natural memberikan affordance (petunjuk bawaan). Tanpa perlu diajari, jari kita otomatis tahu bahwa benda kecil itu harus dicubit (dijepit jari) dan ditarik.
 
 3. **Pemetaan (Mapping): Kanan-Kiri Suka Tertukar?**
-
-Nah, ini evaluasi paling kritis! Kebanyakan PDH kayak gini punya kelemahan di bagian pemetaan atau mapping. Tidak ada penanda visual yang jelas mana potongan untuk lengan kanan dan mana untuk lengan kiri. Padahal, desain yang bagus (good design) seharusnya ngasih mapping yang intuitif, misalnya rel resleting lengan kiri dikasih warna biru, dan kanan warna merah. Tanpa mapping yang baik, siap-siap aja kejadian "salah pasang bahu" kayak yang aku ceritain di atas.
+   <br/>Nah, ini evaluasi paling kritis! Kebanyakan PDH kayak gini punya kelemahan di bagian pemetaan atau mapping. Tidak ada penanda visual yang jelas mana potongan untuk lengan kanan dan mana untuk lengan kiri. Padahal, desain yang bagus (good design) seharusnya ngasih mapping yang intuitif, misalnya rel resleting lengan kiri dikasih warna biru, dan kanan warna merah. Tanpa mapping yang baik, siap-siap aja kejadian "salah pasang bahu" kayak yang aku ceritain di atas.
 
 4. **Batasan (Constraint): Bisa Mencegah Kesalahan Nggak?**
-
-Desain resleting punya sistem batasan (constraint) fisik yang sangat baik. Kita nggak akan bisa menarik kepalanya untuk menyambung lengan kalau ujung besinya (pin) belum dimasukkan ke kotak ujung resleting dengan presisi. Constraint ini memastikan lengan terpasang sempurna dan mencegah kita asal tarik yang berujung resleting rusak.
+   <br/>Desain resleting punya sistem batasan (constraint) fisik yang sangat baik. Kita nggak akan bisa menarik kepalanya untuk menyambung lengan kalau ujung besinya (pin) belum dimasukkan ke kotak ujung resleting dengan presisi. Constraint ini memastikan lengan terpasang sempurna dan mencegah kita asal tarik yang berujung resleting rusak.
 
 5. **Umpan Balik (Feedback): Tahu Dari Mana Kalau Udah Kepasang?**
-
-Sistem pada baju ini memberikan dua umpan balik (feedback) sekaligus. Pertama, feedback berupa suara gesekan "sreeeek" yang khas. Kedua, feedback fisik saat kepala resleting mentok di ujung, menandakan lengan sudah terpasang 100% dan tidak bisa ditarik lagi.
+   <br/>Sistem pada baju ini memberikan dua umpan balik (feedback) sekaligus. Pertama, feedback berupa suara gesekan "sreeeek" yang khas. Kedua, feedback fisik saat kepala resleting mentok di ujung, menandakan lengan sudah terpasang 100% dan tidak bisa ditarik lagi.
 
 6. **Konsistensi (Consistency): Mirip Sama Benda Lain Nggak?**
-
-Secara interaksi, desain bongkar-pasang ini sangat konsisten (consistency) dengan mekanisme benda lain yang sudah kita kenal. Cara kerja menarik kepala resleting melingkar di bahu ini sama persis dengan cara kita menutup ritsleting tas ransel, jaket, ataupun celana. Karena konsisten dengan pengalaman masa lalu kita, kita nggak perlu repot belajar hal baru.
+   <br/>Secara interaksi, desain bongkar-pasang ini sangat konsisten (consistency) dengan mekanisme benda lain yang sudah kita kenal. Cara kerja menarik kepala resleting melingkar di bahu ini sama persis dengan cara kita menutup ritsleting tas ransel, jaket, ataupun celana. Karena konsisten dengan pengalaman masa lalu kita, kita nggak perlu repot belajar hal baru.
 
 ## Kesimpulan: Wajib Punya atau Engga?
 
