@@ -1,0 +1,10 @@
+{{ define "partials/custom/head" }} {{ $animations := resources.Get
+"css/animations.css" }} {{ if $animations }} {{ $animations = $animations |
+resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm |
+default "sha512") }}
+<link
+  rel="stylesheet"
+  href="{{ $animations.RelPermalink }}"
+  integrity="{{ $animations.Data.Integrity }}"
+/>
+{{ end }} {{ end }}

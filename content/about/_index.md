@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2026-03-03
-layout: "simple"
+layout: "background"
 description: "Fullstack Developer based in Surabaya with a passion for web development and cybersecurity."
 ---
 

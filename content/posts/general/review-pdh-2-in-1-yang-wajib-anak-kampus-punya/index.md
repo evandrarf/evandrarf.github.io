@@ -3,6 +3,7 @@ title = 'Satu Baju, Dua Gaya: Review PDH 2-in-1 yang Wajib Anak Kampus Punya'
 date = 2026-03-03T19:00:00+07:00
 description = "Review jujur wearpack atau PDH 2-in-1 buat mantan anak SMK yang kini sibuk ngampus. Bedah tuntas fitur lengan lepas-pasangnya, beneran praktis atau cuma gimik?"
 tags = ["Usability", "Product Design", "Review"]
+featured= "yaya.jpeg"
 +++
 
 Buat kamu yang dulunya anak SMK kayak aku, pasti udah menjadikan PDH atau wearpack layaknya sebagai pakaian sehari-hari. Dulu, baju ini adalah seragam wajib yang selalu dipakai tiap kali ada sesi praktik di bengkel maupun lab. Masalahnya cuma satu: suhunya yang nggak bisa diajak kompromi. Kalau lagi praktik di ruangan non-AC, rasanya gerah minta ampun dan pengen banget gulung lengan baju. Tapi giliran masuk lab komputer yang AC-nya dingin, lengan panjang ini justru jadi penyelamat. Nah, kebayang nggak sih kalau ada satu baju yang bisa ngertiin dua kondisi itu sekaligus?

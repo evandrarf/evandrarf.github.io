@@ -1,0 +1,125 @@
+/* Animated Background for Homepage */
+
+#background-image {
+  animation: backgroundShift 15s ease-in-out infinite;
+  will-change: transform;
+}
+
+@keyframes backgroundShift {
+  0% {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05) translateY(-10px);
+    opacity: 0.95;
+  }
+  100% {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Floating animation for author image */
+.prose img[alt*="Author"],
+.prose img[alt*="author"] {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* Smooth fade-in on page load */
+.single_hero_background {
+  animation: fadeInBackground 0.8s ease-out forwards;
+}
+
+@keyframes fadeInBackground {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: var(--opacity-value, 0.75);
+  }
+}
+
+/* Optional: Add a subtle pulse to the gradient overlay */
+.from-neutral {
+  animation: gradientPulse 8s ease-in-out infinite;
+}
+
+@keyframes gradientPulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.95;
+  }
+}
+
+/* Smooth scroll animation for content entrance */
+@media (prefers-reduced-motion: no-preference) {
+  .prose {
+    animation: slideUp 0.6s ease-out;
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Responsive animations for smaller screens */
+@media (max-width: 640px) {
+  #background-image {
+    animation: backgroundShiftMobile 12s ease-in-out infinite;
+  }
+
+  @keyframes backgroundShiftMobile {
+    0% {
+      transform: scale(1) translateY(0);
+    }
+    50% {
+      transform: scale(1.02) translateY(-5px);
+    }
+    100% {
+      transform: scale(1) translateY(0);
+    }
+  }
+
+  .prose img[alt*="Author"],
+  .prose img[alt*="author"] {
+    animation: floatMobile 5s ease-in-out infinite;
+  }
+
+  @keyframes floatMobile {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+}
+
+/* Ensure smooth transitions */
+* {
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
