@@ -38,7 +38,7 @@ Sebagai mahasiswa yang kritis, mari kita bedah PDH convertible ini dari kacamata
    Ya engga lah! Baju ini sangat mudah dipelajari cara pakainya (easy to learn / learnability). Mengingat mekanisme kayak gini udah sering kita jumpai, siapapun yang melihat ada garis resleting melingkar di sambungan bahu pasti langsung paham secara kalo lengannya bisa dilepas.
 
 6. **Kemudahan Diingat (Memorability): Gampang Lupa Cara Pakainya Nggak?**
-   <br/>Sangat mudah diingat (easy to remember how to use / memorability). Sejauh yang aku gunakan, desain ini sangat mudah diingat, posisi resliting hampir selalu ada di area dekat ketiak. Kalo udah sering make pasti bakal hafal dengan sendiri posisi kunci reslitingnya. Dengan catatan, bagian lengan kanan/kiri sering tertukar saat memasangnya kembali, di pdh yang aku miliki belum ada penanda yang membedakan lengan kanan dan kiri.
+   <br/>Sangat mudah diingat (easy to remember how to use / memorability). Sejauh yang aku gunakan, desain ini sangat mudah diingat, posisi resleting hampir selalu ada di area dekat ketiak. Kalo udah sering make pasti bakal hafal dengan sendiri posisi kunci resletingnya. Dengan catatan, bagian lengan kanan/kiri sering tertukar saat memasangnya kembali, di pdh yang aku miliki belum ada penanda yang membedakan lengan kanan dan kiri.
 
 ## Pengalamanku Make, Gimana? (User Experience Goals)
 
